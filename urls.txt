@@ -1,7 +1,0 @@
-{
-    "donation": "https://www.buymeacoffee.com/mypage",
-    "website": "https://mywebsite.com", 
-    "support": "https://mysupportpage.com",
-    "privacy": "https://mywebsite.com/privacy",
-    "terms": "https://mywebsite.com/terms"
-}
